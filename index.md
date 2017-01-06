@@ -1,7 +1,7 @@
 MS-DOS definitions & commands
 =============================
 
-Basic information on the tools available on CMD for all Windows machines.
+Comprehensive summary on the tools available for CMD for all Windows machines.
 
 ![](http://www.minuszos.hu/wp-content/uploads/2013/12/DOS-prompt.gif)
 
